@@ -30,3 +30,7 @@
   - 스마트 컨트랙트 연동하기
   - web3.js 활용한 이더리움 dApp
   - Project : Blockchain Enabled Digital Health Passport
+
+  [TextBook]  
+  - 블록체인 프로젝트 ; 비트코인, 이더리움, 하이퍼레저 패브릭 기반 시스템 구축, 박정태 저, 정보문화사  
+  - Meta Support : https://metamask.zendesk.com/hc/ko  
