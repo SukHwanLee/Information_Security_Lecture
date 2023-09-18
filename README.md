@@ -5,13 +5,14 @@
 
 1) Cryptography and Network Security
 
-[TextBook]  
-  - Mark Stamp, Information Security, Principles and Practice, 3/e, Wiley, 2021
-  - William Stallings, Cryptography and Network Security, Seventh Edition, Parson, 2017
-  - Information Security 관련 다양한 Technical Report & Blog 활용 (강의자료에 활용)
+  [TextBook]  
+    - Mark Stamp, Information Security, Principles and Practice, 3/e, Wiley, 2021  
+    - William Stallings, Cryptography and Network Security, Seventh Edition, Parson, 2017  
+    - Information Security 관련 다양한 Technical Report & Blog 활용 (강의자료에 활용)
 
-[PyCrypto -> PyCryptodome]
-- https://pycryptodome.readthedocs.io/en/latest/index.html
+  [PyCrypto -> PyCryptodome]
+    - https://pycryptodome.readthedocs.io/en/latest/index.html
+
 
 2) Security Applications & AI Security
   - Content Protection Projects
@@ -20,6 +21,7 @@
   - Deepfake Detection Model
   - Malware PE file
   - Malware Classification Model
+
 
 3) Blockchain [업데이트중]
   - MetaMask
