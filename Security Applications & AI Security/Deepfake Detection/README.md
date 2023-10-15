@@ -1,18 +1,9 @@
-# deepfake_detection
+Deepfake Detection Reference : https://github.com/xinyooo/deepfake-detection
 
+- Detect the video is fake or not using Pre-trained Model provided by Keras Applications. (→ Refer next page)
+- The dataset was downloaded from kaggle deepfake detection challenge: train_sample_videos (1.74GB, 401movies)
+-- https://www.kaggle.com/c/deepfake-detection-challenge/data
 
-Detect the video is fake or not using InceptionResNetV2.
+- Deepfake Detection Challenge : https://www.kaggle.com/c/deepfake-detection-challenge
+- Keras Applications : https://keras.io/api/applications/
 
-
-The dataset was downloaded from kaggle deepfake detection challenge: https://www.kaggle.com/c/deepfake-detection-challenge/data
-
-Experimental steps
-
-Step1.
-run capture_img -> use the dlib face detecter to convert video to face img.
-
-Step2.
-run deepfake_detection_train -> training the dataset from capture_img and output the model file.
-
-Step3.
-run model_play -> load model then input video to detect the video is fake or not. [0]: fake, [1]: real
